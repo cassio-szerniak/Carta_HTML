@@ -1,0 +1,12 @@
+.imagem{
+    width: 800px;
+    height: 800px;
+    background: url(fundo\ de\ carta.jpg);
+}
+.texto {
+    position: absolute;
+    font-size: 30px;
+    text-align: center; margin-left: 20px;
+    
+
+}
